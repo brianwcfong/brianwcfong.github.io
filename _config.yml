@@ -97,7 +97,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Brian Fong"
+  name             : "Brian"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Scientist at Think Big Analytics (Teradata), always looking for new and experimental side projects for Data Science and visualizations"
   location         : "Hong Kong"
