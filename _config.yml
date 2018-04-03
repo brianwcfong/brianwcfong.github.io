@@ -103,7 +103,7 @@ author:
   location         : "Hong Kong"
   email            : "brianfong192@gmail.com"
   uri              :
-  home             : # null (default), "absolute or relative url to link to author home"
+  home             : "https://www.kaggle.com/brianfong192" (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
   dribbble         :
