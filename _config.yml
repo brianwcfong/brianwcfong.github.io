@@ -99,7 +99,7 @@ analytics:
 author:
   name             : "Brian Fong"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Scientist at Think Big Analytics (Teradata)"
+  bio              : "Data Scientist at Think Big Analytics (Teradata), always looking for new and experimental side projects for Data Science and Visualizations"
   location         : "Hong Kong"
   email            : "brianfong192@gmail.com"
   uri              :
@@ -113,7 +113,6 @@ author:
   github           : "www.github.com/brianwcfong"
   gitlab           :
   google_plus      :
-  kaggle           : "https://www.kaggle.com/brianfong192"
   keybase          :
   instagram        :
   lastfm           :
