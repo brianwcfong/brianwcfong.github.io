@@ -102,21 +102,21 @@ author:
   bio              : "Data Scientist at Think Big Analytics (Teradata), always looking for new and experimental side projects for Data Science and visualizations"
   location         : "Hong Kong"
   email            : "brianfong192@gmail.com"
-  uri              :
-  home             : "https://www.kaggle.com/brianfong192" # (default), "absolute or relative url to link to author home"
+  uri              : "https://www.kaggle.com/brianfong192"
+  home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "www.github.com/brianwcfong"
+  github           : "brianwcfong"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "brianfong192" #(the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "brianwcfong" #(the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
