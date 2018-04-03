@@ -4,7 +4,7 @@ title:  "Welcome to Brian's blog!"
 header:
   teaser: "unsplash-gallery-image-2-th.jpg"
 categories: 
-  - Jekyll
+  - updates
 tags:
   - edge case
 ---
