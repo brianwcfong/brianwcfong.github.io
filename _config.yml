@@ -11,7 +11,7 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-remote_theme           : "mmistakes/minimal-mistakes"
+remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "default", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -97,13 +97,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Brian"
+  name             : "Brian Fong"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Scientist at Think Big Analytics (Teradata), always looking for new and experimental side projects for Data Science and visualizations"
   location         : "Hong Kong"
   email            : "brianfong192@gmail.com"
   uri              :
-  home             : "https://www.kaggle.com/brianfong192" (default), "absolute or relative url to link to author home"
+  home             : "https://www.kaggle.com/brianfong192" # (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
   dribbble         :
