@@ -99,7 +99,7 @@ analytics:
 author:
   name             : "Brian Fong"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Scientist at Teradata Corporation (HK). Always looking for new and experimental side projects for Data Science and visualizations"
+  bio              : "Data Scientist at Teradata. Always looking for new and experimental side projects for Data Science and visualizations"
   location         : "Hong Kong"
   email            : "brianfong192@gmail.com"
   uri              : "https://www.kaggle.com/brianfong192"
