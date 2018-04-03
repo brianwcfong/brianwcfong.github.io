@@ -12,14 +12,14 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "default", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Data Science"
+title                    : "Data Science For Fun"
 title_separator          : "-"
 name                     : "Brian Fong"
-description              : "An amazing website."
+description              : "A blog dedicated to little Data Science and Visualization projects."
 url                      : "brianwcfong.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "brianwcfong/brianwcfong.github.io"
@@ -99,7 +99,7 @@ analytics:
 author:
   name             : "Brian Fong"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Scientist at Think Big Analytics (Teradata Corporation)"
+  bio              : "Data Scientist at Think Big Analytics (Teradata)"
   location         : "Hong Kong"
   email            : "brianfong192@gmail.com"
   uri              :
@@ -110,13 +110,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "www.github.com/brianwcfong"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "brianfong192" #(the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
